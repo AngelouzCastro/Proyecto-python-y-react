@@ -1,0 +1,6 @@
+{"_id":{"$oid":"62ba937a67dc48927aa9a573"},"name":"angel","email":"correo@gmail.com","password":"1234"}
+{"_id":{"$oid":"62ba990200c4ce996fef171f"},"name":"carlos2","email":"carlos@gmail.com","password":"123carlos"}
+{"_id":{"$oid":"62ba999708a290f5b9081410"},"name":"martinez","email":"correeeo@gmail.com","password":"123asd4"}
+{"_id":{"$oid":"62bb78789e1a73a2e0d85979"},"name":"carlos","email":"carlos@gmail.com","password":"123carlos"}
+{"_id":{"$oid":"62bb95ec9da6b9b62fd6df18"},"name":"jose jose","email":"jose@gmail.com","password":"sere"}
+{"_id":{"$oid":"62be51ccc72112bd9b9e7a09"},"name":"jose antonio","email":"jose@antonio.com","password":"joan"}
